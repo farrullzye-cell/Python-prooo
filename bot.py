@@ -11,8 +11,8 @@ from telegram.ext import (
 # =====================
 # KONFIGURASI
 # =====================
-BOT_TOKEN = "ISI_TOKEN_BOT"
-ADMIN_CHAT_ID = 123456789  # WAJIB: admin harus chat bot dulu
+BOT_TOKEN = "8417791783:AAFpWIfvq6Zw8Lsyx3FWHBla6spu4yvzmeI"
+ADMIN_CHAT_ID = 7128038268  # WAJIB: admin harus chat bot dulu
 ADMIN_PHONE = "+6285848651208"
 
 LINK_FILE = "links.txt"
